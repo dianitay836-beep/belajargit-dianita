@@ -1,5 +1,3 @@
-Berikut adalah jawaban untuk bagian **Refleksi** pada LKPD 3:
-
 1. **Mengapa branch diperlukan?**
 * Branch diperlukan untuk **mengisolasi (memisahkan) proses pengembangan** fitur baru, perbaikan bug, atau eksperimen. Dengan branch, perubahan kode dilakukan di area kerja terpisah sehingga tidak mengganggu kode utama (`main`) yang sudah stabil.
 
